@@ -1,3 +1,4 @@
+//write a c program to input all sides of a triangle and check whether triangle in valid or not.
 #include <stdio.h>
 int main()
 {
